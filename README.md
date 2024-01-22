@@ -3,6 +3,8 @@
 ## Introduction
 
 Welcome to the repository for the SparkFun EN160 sensor project. This sensor is designed to measure air quality, making it ideal for environmental monitoring, air purification systems, and indoor air quality detection.
+![image](https://github.com/OpuntiaSensorHub/SparkFun_ENS160/assets/31825973/28d158e6-203d-465a-bc8f-c24da6f1c84c)
+
 
 ## Features
 
